@@ -1,7 +1,8 @@
 ---
-title: "About Tamba Fayiah"
+title: "About"
 permalink: /about/
 header:
-	image: "/images/banner.jpg"
+  image: "/images/banner.jpg"
 ---
-	I am a data scientist and a mathematician
+
+	I'm a data scientist and a mathematician also a Software Engineer.

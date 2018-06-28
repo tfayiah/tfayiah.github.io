@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Liberia Health Facilities Visualization"
+title: "Health Facilities"
 permalink: /liberiaHealthFacilities/
 author_profile: true
 header:
-	image: "/images/banner.jpg"
+  image: "/images/banner.jpg"
 ---
 
 {% include base_path %}

@@ -6,3 +6,7 @@ header:
 ---
 
 	I'm a data scientist and a mathematician also a Software Engineer.
+
+  Profile Detail coming soon ...... !!!
+
+  

@@ -7,7 +7,7 @@ header:
 excerpt: "Liberia Health Facilities, Locations Visualization"
 mathjax: "true"
 ---
-# H1 Locations of Health Facilities in Liberia
+# Liberia Health Facilities Locations
 
 ```python
   import numpy as np

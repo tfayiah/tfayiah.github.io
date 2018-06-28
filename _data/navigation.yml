@@ -3,7 +3,7 @@ main:
   - title: "About Tamba Fayiah"
     url:  /about/
   - title: "Health Facilities"
-    url: /LiberiaHealthFacilities/
+    url: /liberiaHealthFacilities/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

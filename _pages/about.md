@@ -9,4 +9,6 @@ header:
 
   Profile Detail coming soon ...... !!!
 
-  
+  <div style="color:black;background-color:white; font-size:2em">
+    <h1> Tamba Fayiah Profile</h1>
+  </div>

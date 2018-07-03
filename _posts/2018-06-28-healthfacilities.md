@@ -9,6 +9,11 @@ mathjax: "true"
 ---
 ## Liberia Health Facilities Locations
 
+<div>
+  <p>In this Visualization Project. I will be using folium leaflet Map to visually depict the location of All health Facilities Liberia
+  </p>
+</div>
+
 ```python
   import numpy as np
   import pandas as pd

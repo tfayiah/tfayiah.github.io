@@ -7,7 +7,7 @@ header:
 excerpt: "Liberia Health Facilities, Locations Visualization"
 mathjax: "true"
 ---
-# Liberia Health Facilities Locations
+## Liberia Health Facilities Locations
 
 ```python
   import numpy as np
@@ -15,5 +15,3 @@ mathjax: "true"
   print("Hello world")
 
 ```
-
-$$f=x+2$$

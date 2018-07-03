@@ -29,5 +29,5 @@ import folium
 ```
 
 <div>
-<a href="clustermap.html">Click to view live map</a>
+<a href="../clustermap.html">Click to view live map</a>
 </div>

@@ -13,13 +13,17 @@ mathjax: "true"
   <p>In this Visualization Project. I will be using folium leaflet Map to visually depict the location of all health Facilities Liberia
   </p>
   <p><h3>Objectives:</h3>
-  To Visually Show on an interactive leaflet Map the location of all the health facilities in Liberia. and also create summary charts. This can be useful for report preparation with regards to the health centers in Liberia and will help us in decision making. This project also show us which county in Liberia have the highest number of health facilities. Which Type of Health center (Hospital, clinic, etc) and how many of them you can find in each county. 
+  To Visually Show on an interactive leaflet Map the location of all the health facilities in Liberia. and also create summary charts. This can be useful for report preparation with regards to the health centers in Liberia and will help us in decision making. This project also show us which county in Liberia have the highest number of health facilities. Which Type of Health center (Hospital, clinic, etc) and how many of them you can find in each county.
   </p>
 </div>
 
-```python
-  import numpy as np
-  import pandas as pd
-  print("Hello world")
+###IMPORTATION OF PYTHON REQUIRED LIBRARIES FOR THE PROJECT
 
+```python
+#import the libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import folium
+%matplotlib inline
 ```

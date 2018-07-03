@@ -27,3 +27,7 @@ import numpy as np
 import folium
 %matplotlib inline
 ```
+
+<div>
+<a href="clustermap.html">Click to view live map</a>
+</div>

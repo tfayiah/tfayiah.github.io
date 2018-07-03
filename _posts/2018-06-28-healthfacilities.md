@@ -17,7 +17,7 @@ mathjax: "true"
   </p>
 </div>
 
-###IMPORTATION OF PYTHON REQUIRED LIBRARIES FOR THE PROJECT
+### IMPORTATION OF PYTHON REQUIRED LIBRARIES FOR THE PROJECT
 
 ```python
 #import the libraries

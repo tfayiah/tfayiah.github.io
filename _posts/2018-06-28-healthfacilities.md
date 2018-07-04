@@ -36,7 +36,7 @@ hfdf=pd.read_csv("healthFacilitiesClean.csv")
 hfdf.head()
 ```
 
-![Data frame Top 5](https://github.com/tfayiah/tfayiah.github.io/blob/master/images/clustermap.jpg)
+<img src='../images/clustermap.jpg' alt="image">
 
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>

@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Health Facilities"
+  - title: "Projects"
     url: /liberiaHealthFacilities/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

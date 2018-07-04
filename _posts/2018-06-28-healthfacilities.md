@@ -40,5 +40,5 @@ hfdf.head()
   alt="First Five rows of the data frame">
 
 <div>
-<a href="../clustermap.html">Click to view live map</a>
+<a href="../clustermap.html" target="_blank">Click to view live map</a>
 </div>

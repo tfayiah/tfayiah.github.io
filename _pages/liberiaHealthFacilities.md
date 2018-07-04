@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Health Facilities"
+title: "Data Analysis Projects"
 permalink: /liberiaHealthFacilities/
 author_profile: true
 header:

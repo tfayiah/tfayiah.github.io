@@ -19,7 +19,7 @@ mathjax: "true"
 
 ### IMPORTATION OF PYTHON REQUIRED LIBRARIES FOR THE PROJECT
 There are numerous Python Libraries used for Data Analysis. I will be using:
-### 1. Pandas ### - for data reading and manipulation (Data Wangling, Clean etc)
+<h5>1. Pandas </h5> - for data reading and manipulation (Data Wangling, Clean etc)
 ### 2. matplotlib ### - Python Data Visualization (Graphical Analysis and presentation)
 ### 3. numpy ### - Python multi-dimensional array manipulation library, use for scientific computing
 ### 4. folium ### - python leaflet interactive mapping libraries

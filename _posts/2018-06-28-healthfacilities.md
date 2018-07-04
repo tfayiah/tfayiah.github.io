@@ -36,7 +36,11 @@ hfdf=pd.read_csv("healthFacilitiesClean.csv")
 hfdf.head()
 ```
 
-![Data frame head](https://github.com/tfayiah/tfayiah.github.io/blob/master/images/dataHead1.png)
+<img src="https://github.com/tfayiah/tfayiah.github.io/blob/master/images/dataHead1.png"
+     alt="DataFrame First 5 rows"
+     style="margin: 5px;" />
+
+![Data frame head]()
 
 <div>
 <a href="../clustermap.html">Click to view live map</a>

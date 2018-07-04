@@ -36,7 +36,8 @@ hfdf=pd.read_csv("healthFacilitiesClean.csv")
 hfdf.head()
 ```
 
-<img src="../assets/images/dataHead1.png" alt="First Five rows of the data frame">
+<img src="https://github.com/tfayiah/tfayiah.github.io/blob/master/images/dataHead1.png"
+  alt="First Five rows of the data frame">
 
 <div>
 <a href="../clustermap.html">Click to view live map</a>

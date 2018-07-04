@@ -31,7 +31,13 @@ import folium
 ### Reading the Data into a Pandas Data Frame
 The Below code will read in the data into a Data frame(2-Dimentional data Panel) from a .CSV (Command Separated Values) File. The pandas Library will be use for the reading. Also the .head() method of the pandas library will be used to view the first 5 rows from the data to give us a clue of how the data is structured.
 ```python
+#read in the data from a csv file using pandas library
+hfdf=pd.read_csv("healthFacilitiesClean.csv")
+hfdf.head()
 ```
+<div>
+<img src="../images/dataHead1.png"/ >
+</div>
 
 
 <div>

@@ -37,7 +37,7 @@ hfdf.head()
 ```
 
 <div>
-<img src="..images/dataHead1.png" >
+<img src="images/dataHead1.png" >
 </div>
 
 

@@ -19,7 +19,7 @@ mathjax: "true"
 
 ### IMPORTATION OF PYTHON REQUIRED LIBRARIES FOR THE PROJECT
 
-<<engine='python' >>=
+<<engine='python', engine.path='python3', results='asis', echo=FALSE>>=
 #import the libraries
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -29,16 +29,6 @@ import folium
 print("Hello World")
 @
 
-<<fig = True, width = '12 cm', echo = False>>=
-from pylab import *
-plot(arange(10))
-show()
-@
-
-```python
-x = np.linspace(0, 2*np.pi)
-plt.plot(x, np.sin(x))
-```
 
 <div>
 <a href="../clustermap.html">Click to view live map</a>

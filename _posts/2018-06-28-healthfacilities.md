@@ -29,6 +29,12 @@ import folium
 print("Hello World")
 @
 
+<<fig = True, width = '12 cm', echo = False>>=
+from pylab import *
+plot(arange(10))
+show()
+@
+
 <div>
 <a href="../clustermap.html">Click to view live map</a>
 </div>

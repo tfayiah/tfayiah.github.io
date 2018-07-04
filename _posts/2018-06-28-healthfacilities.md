@@ -40,6 +40,7 @@ hfdf.head()
 <img src='../images/datahead.jpg' alt="image">
 
 ### Health Facilities Type Count Summary
+<hr>
 My interest is to visualized the Health Centers location and Determine the type of Health Facilities in Liberia. The code below will count the type of health facilities in Liberia.
 
 ```python
@@ -49,6 +50,11 @@ hfdf['Type'].value_counts()
 ```
 <img src='../images/healthcenterscount.jpg' alt="health centers count">
 
+From the Health Facilities Type Count Summary. you can see that we have 500 Clinics, 45 Health Centers and so on.
+### Wrong and Missing Values in the Dataset
+But there is a problem with the entries in the dataset. there are some clinics with the spelling: "Clinic?", "Clinic (HC)" and so on. Making them to be counted as different type of Health Facilities. Also from the top 5 rows from the dataset view viewed above. We can see that there are some missing values in the dataset represented as **NAN**
+
+To take care of correcting those values. the follow code will clean the data for Analysis. deleting/dropping the unwanted columns and replace the missed spelled entries values with the correct entries. and Fill-in the **NAN** values with the necessary values.
 
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>

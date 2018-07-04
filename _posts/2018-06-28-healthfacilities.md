@@ -43,7 +43,8 @@ hfdf.head()
 My interest is to visualized each Health Center location and Determine the type Health Facilities in Liberia. The code below will count each type of health facilities we have in Liberia.
 
 ```python
-#count the type of unique health facilities we have in the dataframe
+#count the type of unique health facilities
+#we have in the dataframe
 hfdf.Type.value_counts()
 ```
 <img src='../images/healthcenterscount.jpg' alt="health centers count">

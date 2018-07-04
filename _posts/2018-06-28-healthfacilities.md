@@ -36,10 +36,7 @@ hfdf=pd.read_csv("healthFacilitiesClean.csv")
 hfdf.head()
 ```
 
-<div>
-<img src="images/dataHead1.png" >
-</div>
-
+![Health Facilities Data frame head](images/dataHead1.png)
 
 <div>
 <a href="../clustermap.html">Click to view live map</a>

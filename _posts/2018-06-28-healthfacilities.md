@@ -19,6 +19,7 @@ mathjax: "true"
 
 ### IMPORTATION OF PYTHON REQUIRED LIBRARIES FOR THE PROJECT
 
+```python
 <<engine='python', engine.path='python3', results='asis', echo=FALSE>>=
 #import the libraries
 import pandas as pd
@@ -28,6 +29,7 @@ import folium
 %matplotlib inline
 print("Hello World")
 @
+```
 
 
 <div>

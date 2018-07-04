@@ -35,6 +35,11 @@ plot(arange(10))
 show()
 @
 
+```python
+x = np.linspace(0, 2*np.pi)
+plt.plot(x, np.sin(x))
+```
+
 <div>
 <a href="../clustermap.html">Click to view live map</a>
 </div>

@@ -35,8 +35,9 @@ The Below code will read in the data into a Data frame(2-Dimentional data Panel)
 hfdf=pd.read_csv("healthFacilitiesClean.csv")
 hfdf.head()
 ```
+
 <div>
-<img src="../images/dataHead1.png"/ >
+<img src="..images/dataHead1.png" >
 </div>
 
 

@@ -56,6 +56,32 @@ But there is a problem with the entries in the dataset. there are some clinics w
 
 To take care of correcting those values. the follow code will clean the data for Analysis. deleting/dropping the unwanted columns and replace the missed spelled entries values with the correct entries. and Fill-in the **NAN** values with the necessary values.
 
+```python
+#replace all "1 Gov. Hospital" with "Gov. Hospital"
+hfdf.Type.replace("1 Gov. Hospital","Gov. Hospital",inplace=True)
+#replace "1 Public Clinic" with "Public Clinic"
+hfdf.Type.replace("1 Public Clinic","Public Clinic",inplace=True)
+#replace "Hosp" With "Hospital"
+hfdf.Type.replace("Hosp","Hospital",inplace=True)
+#replace "GP? TBC" with "TBC"
+hfdf.Type.replace("GP? TBC","TBC",inplace=True)
+#replace "GP? -TBC" with "TBC"
+hfdf.Type.replace("TGP? - TBC","TBC",inplace=True)
+hfdf.Type.replace("Clinic?","Clinic",inplace=True)
+hfdf.Type.replace("ETC?","ETC",inplace=True)
+hfdf.Type.replace("Dentist? TBC","TBC",inplace=True)
+hfdf.Type.replace("8 beds","Clinic",inplace=True)
+hfdf.Type.replace("Clinic (?)","Clinic",inplace=True)
+hfdf.Type.replace("Cinic","Clinic",inplace=True)
+hfdf.Type.replace("GP? - TBC","TBC",inplace=True)
+hfdf.Type.replace("Clinic (HC)","Clinic",inplace=True)
+hfdf.Type.replace("ETU","ETC",inplace=True)
+hfdf.Type.replace("HC","Health Center",inplace=True)
+#Count unique Entries again
+hfdf.Type.value_counts()
+```
+<img src='../images/healthcenterscount2.jpg' alt="health centers count 2">
+
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>
 </div>

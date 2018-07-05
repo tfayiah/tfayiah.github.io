@@ -84,6 +84,15 @@ hfdf.Type.value_counts()
 
 After the cleaning: we name have unique count of each type of health Facility. Hence there are 506 clinics, 49 health Centers and so on.
 
+<h5>Filling Missing Values </h5>
+The Pandas Method Below will remove all missing Values (NAN) from the dataset. I am implementing the forward fill method
+```python
+#fill in the NAN values with using pandas fillna function with the forward fill parameter
+hfdf.fillna(method='ffill')
+hfdf.head()
+```
+<img src='../images/nonNANData.jpg' alt="Data Head without NAN">
+
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>
 </div>

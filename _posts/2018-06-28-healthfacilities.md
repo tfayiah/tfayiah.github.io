@@ -82,6 +82,8 @@ hfdf.Type.value_counts()
 ```
 <img src='../images/healthcenterscount2.jpg' alt="health centers count 2">
 
+After the cleaning: we name have unique count of each type of health Facility. Hence there are 506 clinics, 49 health Centers and so on.
+
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>
 </div>

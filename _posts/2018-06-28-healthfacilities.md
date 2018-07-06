@@ -181,21 +181,24 @@ hcmap
 ```
 After Running the above code the below map is created. you can see they Health Facilities each plotted at it location.
 
-<img src="../images/map1.jpg" href="../secondSaveMap.html" target="_blank" alt="Map1" />
+<a href="../secondSaveMap.html" target= "_blank" ><img src="../images/map1.jpg" width="100%" alt="Map1" /></a>
+<a href="../secondSaveMap.html" target="_blank">Click on the map or here to view the live interactive map.</a>
 
 * you can Click on each marker to see the Facility name and Location (County/Region)
 * You can also click on the + or - Button at the top left corner of the map to zoom in and zoom out respectively.
 * you can also zoom in by double clicking and you can navigate to other locations clicking and dragging the side you want to see.
 
 ### Zoomed View of the map
-<img src="../images/map2.jpg" href="../secondSaveMap.html" target="_blank" alt="Map2" />
+<a href="../secondSaveMap.html" target="_blank"><img src="../images/map2.jpg" width="100%" alt="Map2" /></a>
 
 <a href="../secondSaveMap.html" target="_blank">Click on the map or here to view the live interactive map.</a>
 
+### Clustered Markers Map
+To further tidy the map, I cluster the markers into groups. you can click on each clustered group to see the Facilities at the location.
 
-
-
-
+<a href="../clustermap.html" target="_blank" >
+<img src="clustermap.jpg" width="100%" />
+</a>
 
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>

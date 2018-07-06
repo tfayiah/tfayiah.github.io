@@ -205,15 +205,13 @@ To further tidy the map, I cluster the markers into groups. you can click on eac
 </div>
 
 ### Facilities by County Bar Chart and Heatmap
-```python
-#group the health facilities by counties and the the total hospital in each country
-counties_health_centers=hfdf[['Region',"Center"]]
-counties_health_centers.head()
-```
+**Bar Chart and Pie Chart ** For Health Facilities Count by Region/Counties
+<img src="../images/charts.jpg" width="100%" />
+
 
 <hr>
 
 ### THE PROJECT DATA SOURCE
 
-The Dataset for this project was downloaded from The Humanitarian Data Exchange (HDX) website. The Dataset: <a href="https://data.humdata.org/dataset/8a7fd383-c848-4821-934c-e9dd52d52383">link.</a>
+The Dataset for this project was downloaded from The Humanitarian Data Exchange (HDX) website. The Dataset: <a href="https://data.humdata.org/dataset/8a7fd383-c848-4821-934c-e9dd52d52383" target="_blank">link.</a>
 <hr>

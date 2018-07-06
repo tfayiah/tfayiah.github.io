@@ -102,6 +102,8 @@ The above result show the summary for the categorical variables we have in the d
 2. For the ***Center*** Variable, we have 783 entries. with 776 Unique entries. **Juduken** have the highest centers entries with 2 frequencies.
 3. For the ***Region*** variable. **Montserrado** county have the highest number of entries. with 202 frequencies.
 
+<img src='../images/summarystat2.jpg' alt="Basic Summary statistics 1">
+
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>
 </div>

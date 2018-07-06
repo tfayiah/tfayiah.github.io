@@ -103,6 +103,24 @@ The above result show the summary for the categorical variables we have in the d
 3. For the ***Region*** variable. **Montserrado** county have the highest number of entries. with 202 frequencies.
 
 <img src='../images/summarystat2.jpg' alt="Basic Summary statistics 1">
+The result above show the summary statistics for the numerical variables. from the statistics we can see that there are outliers for the ***Lat*** Entry. The ***Max*** value of *633658.000000* is far above all other entries.
+
+```python
+plt.figure(figsize=(12,7))
+plt.scatter(hfdf.Lat,hfdf.Long)
+plt.xlabel("Latitude")
+plt.ylabel("Longitude")
+plt.title("Lat Long Scatter Plot (Detecting Outliers)")
+plt.show()
+```
+<img src="../images/scatter1.jpg" alt="Scatter Plot 1">
+From the Lat, Long Scatter plot above. We see that there are 4 outliers.
+
+Hence, further data cleaning is carry on to produce the below lat, long scatter plot without the outliers. Some of the outlier data points are dropped and some corrected. Like the lat ***633658.000000 was corrected by replacing it with 6.33658***
+<img src="../images/scatter2.jpg" alt="Scatter Plot 1">
+
+
+
 
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>

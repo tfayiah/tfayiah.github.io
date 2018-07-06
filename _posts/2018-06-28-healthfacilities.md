@@ -205,5 +205,5 @@ To further tidy the map, I cluster the markers into groups. you can click on eac
 </div>
 
 <hr>
-###PROJECT DATA SOURCE
-<hr>
+
+### THE PROJECT DATA SOURCE

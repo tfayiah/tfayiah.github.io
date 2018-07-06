@@ -93,6 +93,11 @@ hfdf.head()
 ```
 <img src='../images/nonNANData.jpg' alt="Data Head without NAN">
 
+### Basic Summary Statistics
+Now that we have the dataset Cleaned and ready for the visualization, Let take some basic Statistics on the dataset using the pandas describe() method.
+
+<img src='../images/summary stats1.jpg' alt="Basic Summary statistics 1">
+
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>
 </div>

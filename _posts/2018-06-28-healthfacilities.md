@@ -208,7 +208,8 @@ To further tidy the map, I cluster the markers into groups. you can click on eac
 **Bar Chart and Pie Chart ** For Health Facilities Count by Region/Counties
 <img src="../images/charts.jpg" width="100%" />
 
-
+###Pivoted Data By: Region and Facility Type:
+<img src="../images/pivoted.jpg" width="100%" />
 <hr>
 
 ### THE PROJECT DATA SOURCE

@@ -204,6 +204,13 @@ To further tidy the map, I cluster the markers into groups. you can click on eac
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>
 </div>
 
+### Facilities by County Bar Chart and Heatmap
+```python
+#group the health facilities by counties and the the total hospital in each country
+counties_health_centers=hfdf[['Region',"Center"]]
+counties_health_centers.head()
+```
+
 <hr>
 
 ### THE PROJECT DATA SOURCE

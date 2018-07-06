@@ -197,9 +197,13 @@ After Running the above code the below map is created. you can see they Health F
 To further tidy the map, I cluster the markers into groups. you can click on each clustered group to see the Facilities at the location.
 
 <a href="../clustermap.html" target="_blank" >
-<img src="clustermap.jpg" width="100%" />
+<img src="../images/clustermap.jpg" width="100%" />
 </a>
 
 <div>
 <a href="../clustermap.html" target="_blank" >Click to view live map</a>
 </div>
+
+<hr>
+###PROJECT DATA SOURCE
+<hr>

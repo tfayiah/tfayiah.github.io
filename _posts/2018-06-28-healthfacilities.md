@@ -215,7 +215,7 @@ To further tidy the map, I cluster the markers into groups. you can click on eac
 ### Pivoted Data Heatmap
 <img src="../images/heatmap.jpg" width="100%" />
 
-<a href="https://github.com/tfayiah/tfayiah.github.io/blob/master/datavisualization.ipynb"> *** Link to the Project *** ** Jupyter NoteBook ** </a>
+<a href="https://github.com/tfayiah/tfayiah.github.io/blob/master/datavisualization.ipynb" target="_blank"> *** Link to the Project *** ** Jupyter NoteBook ** </a>
 
 <hr>
 ### THE PROJECT DATA SOURCE

@@ -119,6 +119,27 @@ From the Lat, Long Scatter plot above. We see that there are 4 outliers.
 Hence, further data cleaning is carry on to produce the below lat, long scatter plot without the outliers. Some of the outlier data points are dropped and some corrected. Like the lat ***633658.000000 was corrected by replacing it with 6.33658***
 <img src="../images/scatter2.jpg" alt="Scatter Plot 1">
 
+### Plotting the data on a Folium Leaflet Map
+```python
+#find the lat, long mean/average to centers
+# the map at the mean point.
+liblat=hfdf['Lat'].mean()
+liblong=hfdf["Long"].mean()
+#get the latituts from the dataframe
+lats=list(hfdf['Lat'])
+#get the longitudes from the dataframe
+longs=list(hfdf['Long'])
+#get the healths centers names and Locations
+hcdescriptions=list(hfdf["Location_des"])
+#get the type of health center list
+htype=list(hfdf['Type'])
+#print the mean Lat and long values
+print(liblat,liblong)
+
+RESULT:
+   (6.441912960391857, -9.822748073872773)
+```
+
 
 
 

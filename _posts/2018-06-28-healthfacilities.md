@@ -212,7 +212,7 @@ To further tidy the map, I cluster the markers into groups. you can click on eac
 <img src="../images/pivoted.jpg" width="100%" />
 
 ###Pivoted Data Heatmap
-<img src="../images/Heatmap.jpg" width="100%" />
+<img src="../images/heatmap.jpg" width="100%" />
 
 <hr>
 ### THE PROJECT DATA SOURCE

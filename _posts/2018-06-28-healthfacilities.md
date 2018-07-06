@@ -139,6 +139,57 @@ print(liblat,liblong)
 RESULT:
    (6.441912960391857, -9.822748073872773)
 ```
+```python
+#plot the folium map with the points
+hcmap=folium.Map(location=[liblat, liblong],zoom_start=7)
+
+#create a future group
+hCenters=folium.FeatureGroup()
+
+#plot the health facilities on the map using a loop
+for hlat,hlong,hname,ht in zip(lats,longs,hcdescriptions,htype):
+    pname=folium.Popup(html=hname,parse_html=True)
+    #differential the health center markers colors by types
+    if ht=="Clinic":
+        folium.Marker(
+        location=[hlat, hlong],
+        popup=pname,
+        icon=folium.Icon(color='green', icon='ok-sign'),
+    ).add_to(hCenters)
+    elif ht=="Health Center":
+        folium.Marker(
+        location=[hlat, hlong],
+        popup=pname,
+        icon=folium.Icon(color='red', icon='ok-sign'),
+    ).add_to(hCenters)
+    elif ht=="Hospital":
+        folium.Marker(
+        location=[hlat, hlong],
+        popup=pname,
+        icon=folium.Icon(color='black', icon='ok-sign'),
+    ).add_to(hCenters)
+    else:
+        folium.Marker(
+        location=[hlat, hlong],
+        popup=pname,
+        icon=folium.Icon(color='blue', icon='ok-sign'),
+    ).add_to(hCenters)
+
+hcmap.add_child(hCenters)
+hcmap.save("secondSaveMap.html")
+hcmap
+```
+After Running the above code the below map is created. you can see they Health Facilities each plotted at it location.
+
+<img src="../images/map1.jpg" href="../secondSaveMap.html" target="_blank" alt="Map1" />
+
+* you can Click on each marker to see the Facility name and Location (County/Region)
+* You can also click on the + or - Button at the top left corner of the map to zoom in and zoom out respectively.
+* you can also zoom in by double clicking and you can navigate to other locations clicking and dragging the side you want to see.
+
+<a href="../secondSaveMap.html" target="_blank">Click on the map or here to view the live interactive map.</a>
+
+
 
 
 

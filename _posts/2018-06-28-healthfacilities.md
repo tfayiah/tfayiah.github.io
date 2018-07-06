@@ -1,7 +1,7 @@
 ---
 title: "Liberia Health Facilities Locations: Visualization and Analysis"
 date : 2018-06-28
-tags: [Liberia, Health Facilities, Visualization, Locations, Data Science, Data Analysis, Machine Learning]
+tags: [Liberia, Health Facilities, Visualization, Locations, Data Science, Data Analysis]
 header:
   image: "/images/banner.jpg"
 excerpt: "Liberia Health Facilities, Locations Visualization"
@@ -207,3 +207,6 @@ To further tidy the map, I cluster the markers into groups. you can click on eac
 <hr>
 
 ### THE PROJECT DATA SOURCE
+
+The Dataset for this project was downloaded from The Humanitarian Data Exchange (HDX) website. The Dataset: <a href="https://data.humdata.org/dataset/8a7fd383-c848-4821-934c-e9dd52d52383">link.</a>
+<hr>

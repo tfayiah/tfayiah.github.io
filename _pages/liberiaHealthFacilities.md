@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Data Analysis Projects"
 permalink: /liberiaHealthFacilities/
 author_profile: true

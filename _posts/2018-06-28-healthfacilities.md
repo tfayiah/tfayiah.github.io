@@ -187,6 +187,9 @@ After Running the above code the below map is created. you can see they Health F
 * You can also click on the + or - Button at the top left corner of the map to zoom in and zoom out respectively.
 * you can also zoom in by double clicking and you can navigate to other locations clicking and dragging the side you want to see.
 
+### Zoomed View of the map
+<img src="../images/map2.jpg" href="../secondSaveMap.html" target="_blank" alt="Map2" />
+
 <a href="../secondSaveMap.html" target="_blank">Click on the map or here to view the live interactive map.</a>
 
 

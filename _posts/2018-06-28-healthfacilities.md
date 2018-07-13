@@ -2,7 +2,7 @@
 classes: wide
 title: "Liberia Health Facilities Locations: Visualization and Analysis"
 date : 2018-06-28
-tags: [Liberia, Health Facilities, Visualization, Locations, Data Science, Data Analysis]
+tags: [Liberia Health Facilities locations Visualization]
 header:
   image: "/images/banner.jpg"
 excerpt: "Liberia Health Facilities, Locations Visualization"

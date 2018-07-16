@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /liberiaHealthFacilities/
-  - title: "CV"
-    url:  https://github.com/tfayiah/tfayiah.github.io/blob/master/Tamba%20Fayiah%20data%20Science%20CV.pdf
+  #- title: "CV"
+  #  url:  https://github.com/tfayiah/tfayiah.github.io/blob/master/Tamba%20Fayiah%20data%20Science%20CV.pdf
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

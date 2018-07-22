@@ -12,6 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
+<<<<<<< HEAD
 minimal_mistakes_skin    :  "air" #"default" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -23,6 +24,19 @@ description              : "Uncovering Hidden Insights in to Data"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+=======
+minimal_mistakes_skin    :  "default" #"default" , "air", "default", "air"  , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Data Insight "
+title_separator          : "-"
+name                     : "Tamba Fayiah"
+description              : "Data Scientist/ Software Engineer/ Web Developer and a Mathematician"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "tfayiah.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+>>>>>>> 2095cf38ecc908cd7e6c27e01577eda22c5471c7
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -101,9 +115,15 @@ analytics:
 # Site Author
 author:
   name             : "Tamba Fayiah"
+<<<<<<< HEAD
   avatar           : "/images/fayiah.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist, Software Engineer, Database Developer and Administrator and A Mathematician"
   location         : "Jacob's Town Rehab, Monrovia, Liberia"
+=======
+  avatar           : "images/fayiah.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am  a Data Scientist/ Software Engineer/ Web Developer and A Mathematician"
+  location         : "Monrovia, Liberia"
+>>>>>>> 2095cf38ecc908cd7e6c27e01577eda22c5471c7
   email            : "fayiah.tamba@yahoo.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -111,15 +131,25 @@ author:
   codepen          :
   dribbble         :
   flickr           :
+<<<<<<< HEAD
   facebook         :
   foursquare       :
   github           : "tfayiah"
+=======
+  facebook         : "oldmanyeskman"
+  foursquare       :
+  github           :
+>>>>>>> 2095cf38ecc908cd7e6c27e01577eda22c5471c7
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
+<<<<<<< HEAD
   linkedin         : "tamba-fayiah-82a89914a"  # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+=======
+  linkedin         : "tamba-fayiah-82a89914a" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+>>>>>>> 2095cf38ecc908cd7e6c27e01577eda22c5471c7
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -270,6 +300,7 @@ defaults:
       share: true
       related: true
 
+<<<<<<< HEAD
     # _pages
       - scope:
         path: ""
@@ -277,3 +308,11 @@ defaults:
        values:
          layout: single
          author_profile: true
+=======
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+>>>>>>> 2095cf38ecc908cd7e6c27e01577eda22c5471c7

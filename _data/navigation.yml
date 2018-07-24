@@ -5,7 +5,6 @@ main:
     url: /aboutme/
   -title: "Health Data Analysis"
     url: /health/
-=======
   - title: "About"
     url: /about/
   - title: "Projects"
@@ -23,4 +22,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-	

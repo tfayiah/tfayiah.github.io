@@ -221,4 +221,6 @@ To further tidy the map, I cluster the markers into groups. you can click on eac
 ### THE PROJECT DATA SOURCE
 
 The Dataset for this project was downloaded from The Humanitarian Data Exchange (HDX) website. The Dataset: <a href="https://data.humdata.org/dataset/8a7fd383-c848-4821-934c-e9dd52d52383" target="_blank">link.</a>
+
+Thanks for reading
 <hr>

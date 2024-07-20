@@ -25,14 +25,14 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 =======
-minimal_mistakes_skin    :  "default" #"default" , "air", "default", "air"  , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "air" #"default" , "air", "default", "air"  , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Data Insight "
 title_separator          : "-"
 name                     : "Tamba Fayiah"
-description              : "Data Scientist/ Software Engineer/ Web Developer and a Mathematician"
+description              : "I am statistician, Software Engineer and an Information Management specialist."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tfayiah.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,12 +117,12 @@ author:
   name             : "Tamba Fayiah"
 <<<<<<< HEAD
   avatar           : "/images/fayiah.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist, Software Engineer, Database Developer and Administrator and A Mathematician"
+  bio              : "Data Scientist, Software Engineer, Full Stack developer, Mathematician"
   location         : "Jacob's Town Rehab, Monrovia, Liberia"
 =======
-  avatar           : "images/fayiah.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am  a Data Scientist/ Software Engineer/ Web Developer and A Mathematician"
-  location         : "Monrovia, Liberia"
+  avatar           : "images/fayiah2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am  a Statistician/ Software Engineer/ Full stack developer and an Information Management specialist.""
+  location         : "Jacob town rehab, Monrovia, Liberia"
 >>>>>>> 2095cf38ecc908cd7e6c27e01577eda22c5471c7
   email            : "fayiah.tamba@yahoo.com"
   uri              :
@@ -146,9 +146,9 @@ author:
   instagram        :
   lastfm           :
 <<<<<<< HEAD
-  linkedin         : "tamba-fayiah-82a89914a"  # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "tamba-fayiah-mas-82a89914a"  # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
 =======
-  linkedin         : "tamba-fayiah-82a89914a" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "tamba-fayiah-mas-82a89914a" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
 >>>>>>> 2095cf38ecc908cd7e6c27e01577eda22c5471c7
   pinterest        :
   soundcloud       :
@@ -159,7 +159,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "http://www.youtube.com/@tambafayiah8454"
 
 
 # Reading Files
@@ -227,7 +227,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

@@ -25,9 +25,10 @@ author:
   avatar           : "myprofilePic.jpg"
   name             : "Tamba Fayiah"
   pronouns         : "He/Him" # example: "He/Him"  
-  bio              : "Statistician, IT Specialist (Software/Web developer). 
+  bio              : "<strong>Statistician, IT Specialist (Software/Web developer). 
                       I have served in several capacities in the medical and humanitarian
-                      fields, both in emergency and development settings. From a clinical Data manager to Biostatistician and now as Information Management officer."
+                      fields, both in emergency and development settings. From a clinical 
+                      Data manager to Biostatistician and now as Information Management officer.</strong>"
   location         : "Monrovia, Liberia"
   employer         : "UNICEF Liberia"
   uri              : tfayiah.github.io # URL

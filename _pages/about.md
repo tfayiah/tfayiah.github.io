@@ -4,9 +4,9 @@ permalink: /
 title: "Professional profile"
 author_profile: true
 redirect_from:
-
 - /about/
 - /about.html
+---
 
 this will hold information about Tamba.
 

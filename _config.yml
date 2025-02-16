@@ -25,7 +25,7 @@ author:
   avatar           : "myprofilePic.jpg"
   name             : "Tamba Fayiah"
   pronouns         : "He/Him" # example: "He/Him"  
-  bio              : "<strong><p style='text-align: justify; font-size: large;'>Statistician, IT Specialist (Software/Web developer). 
+  bio              : "<strong><p style='text-align: left; font-size: 12px;'>Statistician, IT Specialist (Software/Web developer). 
                       I have served in several capacities in the medical and humanitarian
                       fields, both in emergency and development settings. From a clinical 
                       Data manager to Biostatistician and now as Information Management officer.</p></strong>"

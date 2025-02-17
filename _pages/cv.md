@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* <strong>Master of Science in Information Technology</strong> (MSc IT) - Software Applications development, Southern New Hampshire University,  - Expected (2025)
-* <strong>Master of Applied Statistics</strong> (MAS), Pennsylvania State University - graduated August 2023
-* <strong>Bachelor of Science in Mathematics</strong> (Magna Cum laude - Honor)      - graduated Dec 2016
+* Master of Science in Information Technology (MSc IT) - Software Applications development, Southern New Hampshire University,  - Expected (2025)
+* Master of Applied Statistics (MAS), Pennsylvania State University - graduated August 2023
+* Bachelor of Science in Mathematics (Magna Cum laude - Honor)      - graduated Dec 2016
 
 Work experience
 ======

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Information Technology (MSc IT) - Software Applications development, Southern New Hampshire University,  - Expected (2025)
+* Master of Applied Statistics (MAS), Pennsylvania State University - graduated August 2023
+* Bachelor of Science in Mathematics (Magna Cum laude - Honor)      - graduated Dec 2016
 
 Work experience
 ======

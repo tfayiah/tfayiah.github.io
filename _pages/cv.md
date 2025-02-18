@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* _ Information Management Officer: UNICEF Liberia       - August 2023 to Present
+  * 
+  * 
+  * 
 
-* Fall 2015: Research Assistant
+* _Biostatistician: Partnership for Research on Infectious Diseases in Liberia (PREVAIL)
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub

@@ -37,7 +37,8 @@ Skills
   * Data collection tools: Kobocollect, ODK, RedCAP, CSPro, Data Fax, Case Report Forms (CRS)/Questionnaires design/development
 
 * **Information Technology**
-  * 
+  * Information system Analysis and design
+    * System requirement gathering
 
 Publications
 ======

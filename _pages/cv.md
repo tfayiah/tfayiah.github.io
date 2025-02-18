@@ -23,9 +23,9 @@ ____
 The role of an Information Management Officer at UNICEF Liberia involves several key responsibilities and achievements, particularly in the context of humanitarian assistance and data management. Here are the main aspects of this position:
 
   _Key Responsibilities:_
-  * **Data Collection and Analysis:** Overseeing the collection, management, and analysis of data related to UNICEF's programs and initiatives in Liberia.
+  * **Data Collection and Analysis:** Overseeing the collection, management, and analysis of data related to UNICEF's programs and initiatives in Liberia. Responsibilities extends to managing the collection, analysis, and sharing of critical information that informs decision-making within various humanitarian sectors, including Education and Child Protection. This includes establishing databases to consolidate information and assess needs at both national and sub-national levels
   * **Reporting:** Preparing and disseminating regular reports on program progress, outcomes, and impact to stakeholders.
-  * **Database Management:** Maintaining and updating databases to ensure accurate and timely information is available for decision-making.
+  * **Database Management:** Maintaining and updating databases to ensure accurate and timely information is available for decision-making. Developed and maintained databases and dashboards for real-time data visualization and decision-making.
   * **Coordination:** Collaborating with various departments and external partners to ensure data consistency and integration.
   * **Capacity Building:** Training and supporting staff and partners in data collection, management, and analysis techniques.
 **Monitoring and Evaluation:** Developing and implementing monitoring and evaluation frameworks to assess program effectiveness.

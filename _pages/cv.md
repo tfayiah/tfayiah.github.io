@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* **Master of Science in Information Technology (MSc IT) - Software Applications development**, Southern New Hampshire University, USA  - Expected (2025)
-* **Master of Applied Statistics (MAS)**, Pennsylvania State University, USA - graduated August 2023
-* **Bachelor of Science in Mathematics** (Magna Cum laude - Honor), University of Liberia, Monrovia, Liberia      - graduated Dec 2016
+1. **Master of Science in Information Technology (MSc IT) - Software Applications development**, Southern New Hampshire University, USA  - Expected (2025)
+2. **Master of Applied Statistics (MAS)**, Pennsylvania State University, USA - graduated August 2023
+3. **Bachelor of Science in Mathematics** (Magna Cum laude - Honor), University of Liberia, Monrovia, Liberia      - graduated Dec 2016
 
-Work experience
+___Work experience
 ======
 * **_Information Management Officer:_** UNICEF Liberia       - August 2023 to Present
   * 

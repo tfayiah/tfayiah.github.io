@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Information Technology (MSc IT) - Software Applications development, Southern New Hampshire University,  - Expected (2025)
-* Master of Applied Statistics (MAS), Pennsylvania State University - graduated August 2023
-* Bachelor of Science in Mathematics (Magna Cum laude - Honor)      - graduated Dec 2016
+* **Master of Science in Information Technology (MSc IT) - Software Applications development**, Southern New Hampshire University,  - Expected (2025)
+* **Master of Applied Statistics (MAS)**, Pennsylvania State University - graduated August 2023
+* **Bachelor of Science in Mathematics** (Magna Cum laude - Honor)      - graduated Dec 2016
 
 Work experience
 ======

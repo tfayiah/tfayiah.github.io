@@ -27,15 +27,15 @@ Work experience
 Skills
 ======
 * **Clinical trials, Biostatistics, Statistical Programming, Research**
-~~~~ #codeblock begins
+```
   * Study Design, Sample size calculations, and Statistical methodology/analysis
   * Protocol, Standard Operating Procedures (SOPs) and other technical documents writing
   * Data protection and quality control/assurance procedures.
   * Clinical data management
-  * Clinical Data Standards Interchange Consortum (CDISC)- SDTM, ADAMS, Define-XML
+  * Clinical Data Standards Interchange Consortum (CDISC)- _SDTM, ADAMS, Define-XML_
   * Software worked with: _R*, Python*, Stata*, SAS*, SPSS_ 
     <u>Note:</u> (*) frequently used in work environment 
-~~~~ #codeblock ends
+```
 
 * **Information Management**
   * _Data collection tools:_ Kobocollect, ODK, RedCAP, CSPro, Data Fax, Case Report Forms (CRS)/Questionnaires design/development

@@ -17,20 +17,15 @@ Education
 
 Work experience
 ======
-* _ Information Management Officer: UNICEF Liberia       - August 2023 to Present
+* **_Information Management Officer:_** UNICEF Liberia       - August 2023 to Present
   * 
   * 
   * 
 
-* _Biostatistician: Partnership for Research on Infectious Diseases in Liberia (PREVAIL)
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **_Biostatistician:_** Partnership for Research on Infectious Diseases in Liberia (PREVAIL)
+  * 
+  * 
+  * 
   
 Skills
 ======

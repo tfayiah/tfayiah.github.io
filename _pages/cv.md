@@ -32,7 +32,7 @@ Skills
   * Data protection and quality control/assurance procedures.
   * Clinical data management
   * Software worked with: _R*, Python*, Stata*, SAS*, SPSS_ 
-    Note: (*) frequently used with in work environment 
+    <u>Note:</u> (*) frequently used in work environment 
 
 * **Information Management**
   * Data collection tools: Kobocollect, ODK, RedCAP, CSPro, Data Fax, Case Report Forms (CRS)/Questionnaires design/development

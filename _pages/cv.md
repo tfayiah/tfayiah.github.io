@@ -27,7 +27,7 @@ Work experience
   
 Skills
 ======
-* Clinical trials
+* **Clinical trials**
   * Study Design, Sample size calculations, and Statistical methodology/analysis
   * Protocol, Standard Operating Procedures (SOPs) and other technical documents writing
   * Data protection and quality control/assurance procedures.

@@ -1,14 +1,14 @@
 ---
 
 permalink: /
-title: "Professional profile"
+title: "Tamba Fayiah Professional Profile"
 author_profile: true
 redirect_from:
 - /about/
 - /about.html
 ---
 
-# Tamba Fayiah Bio
+
 
 *** Educational Background ***
 

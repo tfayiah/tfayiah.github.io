@@ -55,6 +55,9 @@ _Key Achievements:_
 * Capacity Building: Conducted training sessions that enhanced the data management and statistical skills of PREVAIL staff.
 * Innovative Solutions: Introduced new statistical methodologies and tools that improved data analysis capabilities.
 * Effective Collaboration: Fostered strong teamwork and collaboration across various departments, leading to successful study implementations.
+* Published Manuscripts: Contributed to the writing and publication of three manuscripts, enhancing the body of research on infectious diseases in Liberia.
+* Research Dissemination: Successfully disseminated research findings through reputable journals, increasing the visibility and impact of PREVAIL's work.
+* Collaborative Writing: Worked collaboratively with researchers and co-authors to produce high-quality, peer-reviewed publications.
 
 Skills
 ======

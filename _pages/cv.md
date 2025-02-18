@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
+____
 1. **Master of Science in Information Technology (MSc IT) - Software Applications development**, Southern New Hampshire University, USA  - Expected (2025)
 2. **Master of Applied Statistics (MAS)**, Pennsylvania State University, USA - graduated August 2023
 3. **Bachelor of Science in Mathematics** (Magna Cum laude - Honor), University of Liberia, Monrovia, Liberia      - graduated Dec 2016
 
 Work experience
+======
 ____ 
 * **_Information Management Officer:_** UNICEF Liberia       - August 2023 to Present
   * 

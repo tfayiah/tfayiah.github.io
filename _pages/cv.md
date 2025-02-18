@@ -58,8 +58,9 @@ _Key Achievements:_
 
 Skills
 ======
+____
 * **Clinical trials, Biostatistics, Statistical Programming, Research**
-```
+
   * Study Design, Sample size calculations, and Statistical methodology/analysis
   * Protocol, Standard Operating Procedures (SOPs) and other technical documents writing
   * Data protection and quality control/assurance procedures.
@@ -67,7 +68,7 @@ Skills
   * Clinical Data Standards Interchange Consortum (CDISC)- _SDTM, ADAMS, Define-XML_
   * Software worked with: _R*, Python*, Stata*, SAS*, SPSS_ 
     <u>Note:</u> (*) frequently used in work environment 
-```
+
 
 * **Information Management**
   * _Data collection tools:_ Kobocollect, ODK, RedCAP, CSPro, Data Fax, Case Report Forms (CRS)/Questionnaires design/development
@@ -80,22 +81,26 @@ Skills
 
 Publications
 ======
+____
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
+____
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
+____
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
+____
 * Currently signed in to 43 different slack teams

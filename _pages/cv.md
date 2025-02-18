@@ -31,11 +31,14 @@ Skills
   * Protocol, Standard Operating Procedures (SOPs) and other technical documents writing
   * Data protection and quality control/assurance procedures.
   * Clinical data management
+  * **Clinical Data Standards Interchange Consortum (CDISC)** - SDTM, ADAMS, Define-XML
   * Software worked with: _R*, Python*, Stata*, SAS*, SPSS_ 
     <u>Note:</u> (*) frequently used in work environment 
 
 * **Information Management**
-  * Data collection tools: Kobocollect, ODK, RedCAP, CSPro, Data Fax, Case Report Forms (CRS)/Questionnaires design/development
+  * _Data collection tools:_ Kobocollect, ODK, RedCAP, CSPro, Data Fax, Case Report Forms (CRS)/Questionnaires design/development
+  * _Data Extraction, Transformation, Loading (ETL)_ from diversed data sources/pipelines and format to be standardized, curated, harmonized and etc.
+
 
 * **Information Technology**
   * Information system Analysis and design

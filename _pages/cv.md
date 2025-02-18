@@ -20,8 +20,20 @@ Work experience
 ======
 ____ 
 * **_Information Management Officer:_** UNICEF Liberia       - August 2023 to Present
-  * 
-
+  _Key Responsibilities:_
+  * **Data Collection and Analysis:** Overseeing the collection, management, and analysis of data related to UNICEF's programs and initiatives in Liberia.
+  * **Reporting:** Preparing and disseminating regular reports on program progress, outcomes, and impact to stakeholders.
+  * **Database Management:** Maintaining and updating databases to ensure accurate and timely information is available for decision-making.
+  * **Coordination:** Collaborating with various departments and external partners to ensure data consistency and integration.
+  * **Capacity Building:** Training and supporting staff and partners in data collection, management, and analysis techniques.
+**Monitoring and Evaluation:** Developing and implementing monitoring and evaluation frameworks to assess program effectiveness.
+  _Key Achievements:_
+  * **Enhanced Data Quality:** Implemented new data validation processes that improved the accuracy and reliability of program data.
+  * **Improved Reporting Systems:** Developed streamlined reporting systems that reduced the time required to generate reports and increased their accessibility.
+  * **Capacity Building Initiatives:** Conducted multiple training sessions for staff and partners, resulting in improved data management skills across the organization.
+  * **Successful Program Evaluations:** Led comprehensive evaluations of key programs, providing valuable insights that informed strategic planning and decision-making.
+  * **Innovative Data Solutions:** Introduced innovative data management tools and technologies that enhanced data collection and analysis capabilities.
+  * **Establishment of a realtime data reporting national Nutritional surveillance system:** Collaborated and provided a technical support to the Ministry of Health to develop and establish the community level Nutrition surveillance system that early detects mulnurished children and refer them to the health facility to treatment.
 
 * **_Biostatistician:_** Partnership for Research on Infectious Diseases in Liberia (PREVAIL)
   * 

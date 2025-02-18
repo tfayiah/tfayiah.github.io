@@ -8,9 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-
-
-*** Educational Background ***
+## Educational Background
 
 I hold a Master of Applied Statistics from Pennsylvania State University, where I graduated in August 2023. My academic journey began with a B.S. in Mathematics (magna cum laude) from the University of Liberia. Additionally, I have earned several professional diplomas, including an Advanced Postgraduate Diploma in Clinical Research & Data Management from James Lind Institute, and certifications in Data Science, Management & Security from Oxford University.
 

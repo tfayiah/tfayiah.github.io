@@ -32,8 +32,12 @@ Skills
   * Protocol, Standard Operating Procedures (SOPs) and other technical documents writing
   * Data protection and quality control/assurance procedures.
   * Clinical data management
+
 * **Information Management**
+  * Data collection tools: Kobocollect, ODK, RedCAP, CSPro, Data Fax, Case Report Forms (CRS)/Questionnaires design/development
+
 * **Information Technology**
+  * 
 
 Publications
 ======

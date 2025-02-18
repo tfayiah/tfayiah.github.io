@@ -28,7 +28,8 @@ The role of an Information Management Officer at UNICEF Liberia involves several
   * **Database Management:** Maintaining and updating databases to ensure accurate and timely information is available for decision-making. Developed and maintained databases and dashboards for real-time data visualization and decision-making.
   * **Coordination:** Collaborating with various departments and external partners to ensure data consistency and integration.
   * **Capacity Building:** Training and supporting staff and partners in data collection, management, and analysis techniques.
-**Monitoring and Evaluation:** Developing and implementing monitoring and evaluation frameworks to assess program effectiveness.
+  * **Monitoring and Evaluation:** Developing and implementing monitoring and evaluation frameworks to assess program effectiveness.
+  
   _Key Achievements:_
   * **Enhanced Data Quality:** Implemented new data validation processes that improved the accuracy and reliability of program data.
   * **Improved Reporting Systems:** Developed streamlined reporting systems that reduced the time required to generate reports and increased their accessibility.

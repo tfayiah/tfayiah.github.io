@@ -24,7 +24,6 @@ Work experience
 * **_Biostatistician:_** Partnership for Research on Infectious Diseases in Liberia (PREVAIL)
   * 
 
-  
 Skills
 ======
 * **Clinical trials, Biostatistics, Statistical Programming, Research**

@@ -31,7 +31,7 @@ Skills
   * Protocol, Standard Operating Procedures (SOPs) and other technical documents writing
   * Data protection and quality control/assurance procedures.
   * Clinical data management
-  * **Clinical Data Standards Interchange Consortum (CDISC)** - SDTM, ADAMS, Define-XML
+  * Clinical Data Standards Interchange Consortum (CDISC)- SDTM, ADAMS, Define-XML
   * Software worked with: _R*, Python*, Stata*, SAS*, SPSS_ 
     <u>Note:</u> (*) frequently used in work environment 
 

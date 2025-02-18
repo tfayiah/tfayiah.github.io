@@ -27,12 +27,13 @@ Work experience
   
 Skills
 ======
-* **Clinical trials, Biostatistics, Statistical Programming**
+* **Clinical trials, Biostatistics, Statistical Programming, Research**
   * Study Design, Sample size calculations, and Statistical methodology/analysis
   * Protocol, Standard Operating Procedures (SOPs) and other technical documents writing
   * Data protection and quality control/assurance procedures.
   * Clinical data management
-* Skill 3
+* **Information Management**
+* **Information Technology**
 
 Publications
 ======

@@ -1,5 +1,5 @@
 ---
-title: "Patients’ satisfaction with Maternal healthcare services delivered by a community‐based, Not‐For‐Profit Clinic in Montserrado, Liberia. "
+title: "Patients’ satisfaction with Maternal healthcare services delivered by a community‐based, Not‐For‐Profit Clinic in Montserrado, Liberia."
 collection: talks
 type: "Talk"
 permalink: /talks/conferencePresentationLiberia

@@ -16,6 +16,13 @@ ____
 2. **Master of Applied Statistics (MAS)**, Pennsylvania State University, USA - graduated August 2023
 3. **Bachelor of Science in Mathematics** (Magna Cum laude - Honor), University of Liberia, Monrovia, Liberia      - graduated Dec 2016
 
+_Other Trainings_
+2. **Advanced Postgraduate Diploma (APGD) in Clinical Research & Data Management** - James Lind Institute, Switzerland | Sep 2019 - Sep 2020
+
+3. **Honor Diploma in Information Technology** - Blue Crest University College, Liberia | May 2016 - Sep 2017
+
+4. **Certificate in Data Science Management & Security** - Oxford University, UK | Nov 2018 - Dec 2018
+
 Work experience
 ======
 ____ 

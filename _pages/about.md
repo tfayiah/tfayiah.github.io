@@ -14,4 +14,4 @@ As an **Information Management Officer** at UNICEF Liberia, Tamba leads data-dri
 
 Passionate about **public health**, Tamba has contributed to malaria eradication efforts in refugee camps and actively participated in the Ebola response. His dedication to leveraging data for better health outcomes continues to drive his work in improving evidence-based decision-making in resource-limited settings.
 
-Read detailed profile: [Click here](../detailed_about.html)
+Read detail profile: [Click here](../detailed_about.html)

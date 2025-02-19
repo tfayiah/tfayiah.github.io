@@ -8,4 +8,4 @@ date: January 2019
 location: "Monrovia, Liberia"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+Maternal satisfaction with services provided by a not-for-profit non governmental organization in a slum community in Liberia was assessed.

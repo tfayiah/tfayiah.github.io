@@ -16,7 +16,7 @@ ____
 2. **Master of Applied Statistics (MAS)**, Pennsylvania State University, USA - graduated August 2023
 3. **Bachelor of Science in Mathematics** (Magna Cum laude - Honor), University of Liberia, Monrovia, Liberia      - graduated Dec 2016
 
-_Other Trainings_
+_**Other Trainings**_
 
 1. **Project Design, Monitoring & Evaluation Certificate** - Project Managament for Development Organizations, USA | August 2024
 

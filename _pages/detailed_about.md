@@ -1,9 +1,9 @@
 ---
-permalink: /detailed_about/
+permalink: /
 title: "Tamba Fayiah Detailed Professional Profile"
 author_profile: true
 redirect_from:
-- /detailed_about/
+- /detailed_about
 - /detailed_about.html
 ---
 

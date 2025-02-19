@@ -85,6 +85,8 @@ for row, item in publications.iterrows():
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
+
+    md += "\nAuthor(s): '" + html_escape(item.authors) + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
@@ -106,5 +108,3 @@ for row, item in publications.iterrows():
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
-

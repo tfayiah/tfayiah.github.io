@@ -59,9 +59,12 @@ _Key Achievements:_
 * Research Dissemination: Successfully disseminated research findings through reputable journals, increasing the visibility and impact of PREVAIL's work.
 * Collaborative Writing: Worked collaboratively with researchers and co-authors to produce high-quality, peer-reviewed publications.
 
-Skills
+Skills and Expertise
 ======
 ____
+
+I possess a diverse skill set in data analysis, statistical programming, and research communication. My technical proficiencies include R, Python, SAS, Stata, and various data management tools. I am also experienced in developing and implementing monitoring and evaluation frameworks, conducting geospatial analyses, and integrating multi-modal data in biomedical research.
+
 * **Clinical trials, Biostatistics, Statistical Programming, Research**
 
   * Study Design, Sample size calculations, and Statistical methodology/analysis

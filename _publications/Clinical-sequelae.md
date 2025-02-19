@@ -6,7 +6,7 @@ permalink: /publication/Clinical-sequelae
 excerpt: 'We assessed current symptoms and physical examination findings among individuals with pauci-symptomatic or asymptomatic infection and unrecognised Ebola virus disease compared with Ebola virus disease survivors and uninfected contacts.'
 date: 2022/8/1
 venue: 'The Lancet Infectious Diseases'
-authors: 'J Daniel Kelly, Collin Van Ryn, Moses Badio, Tamba Fayiah, Kumblytee Johnson, Dehkontee Gayedyu-Dennis, Sheri D Weiser, Travis C Porco, Jeffery N Martin, Michael C Sneller, George W Rutherford, Cavan Reilly, Mosoka P Fallah, J Soka Moses'
+authors: 'J Daniel Kelly, Collin Van Ryn, Moses Badio, **Tamba Fayiah**, Kumblytee Johnson, Dehkontee Gayedyu-Dennis, Sheri D Weiser, Travis C Porco, Jeffery N Martin, Michael C Sneller, George W Rutherford, Cavan Reilly, Mosoka P Fallah, J Soka Moses'
 paperurl: 'http://tfayiah.github.io/files/clinicalsequa.pdf'
 citation: 'Clinical sequelae among individuals with pauci-symptomatic or asymptomatic Ebola virus infection and unrecognised Ebola virus disease in Liberia: a longitudinal cohort study, Kelly, J Daniel et al. The Lancet Infectious Diseases, Volume 22, Issue 8, 1163 - 1171'
 ---

@@ -20,7 +20,7 @@ Work experience
 ======
 ____ 
 
-**_<u><code style="color : aqua">text</code>1. Information Management Officer:</u>_** UNICEF Liberia       - August 2023 to Present
+**<u><code style="color : lightskyblue">1. Information Management Officer:</code></u>** UNICEF Liberia       - August 2023 to Present
 
 The role of an Information Management Officer at UNICEF Liberia involves several key responsibilities and achievements, particularly in the context of humanitarian assistance and data management. Here are the main aspects of this position:
 
@@ -40,7 +40,7 @@ The role of an Information Management Officer at UNICEF Liberia involves several
   * Innovative Data Solutions: Introduced innovative data management tools and technologies that enhanced data collection and analysis capabilities.
   * Establishment of a realtime data reporting national Nutritional surveillance system: Collaborated and provided a technical support to the Ministry of Health to develop and establish the community level Nutrition surveillance system that early detects mulnurished children and refer them to the health facility to treatment.
 
-**_<u>2. Biostatistician:</u>_** Partnership for Research on Infectious Diseases in Liberia (PREVAIL)
+**<u><code style="color : lightskyblue">2. Biostatistician:</code></u>** Partnership for Research on Infectious Diseases in Liberia (PREVAIL)
   
   * _Key Responsibilities:_
   * Study Design and Protocol Development: Assisting in the design of study protocols, including sample size calculations and statistical methodologies.

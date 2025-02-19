@@ -20,7 +20,7 @@ Work experience
 ======
 ____ 
 
-$\color{green}{test}$ followup test heere
+$\textcolor{green}{test}$ followup test heere
 
 **_<u>1. Information Management Officer:</u>_** UNICEF Liberia       - August 2023 to Present
 

@@ -1,7 +1,7 @@
 ---
 title: "Patients’ satisfaction with Maternal healthcare services delivered by a community‐based, Not‐For‐Profit Clinic in Montserrado, Liberia."
 collection: talks
-type: "Talk"
+type: "Scientific Conference"
 permalink: /talks/conferencePresentationLiberia
 venue: "Emmet A. Dennis Scientific Conference"
 date: January 2019

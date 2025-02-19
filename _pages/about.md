@@ -10,7 +10,11 @@ redirect_from:
 
 ## Educational Background
 
-I hold a Master of Applied Statistics from Pennsylvania State University, where I graduated in August 2023. My academic journey began with a B.S. in Mathematics (magna cum laude) from the University of Liberia. Additionally, I have earned several professional diplomas, including an Advanced Postgraduate Diploma in Clinical Research & Data Management from James Lind Institute, and certifications in Data Science, Management & Security from Oxford University.
+I hold a Master of Applied Statistics from Pennsylvania State University, where I graduated in August 2023. My academic journey began with a B.S. in Mathematics (magna cum laude) from the University of Liberia. Additionally, I have earned several professional diplomas, including an Advanced Postgraduate Diploma in Clinical Research & Data Management from James Lind Institute, and certifications in Data Science, Management & Security from Oxford University and several others.
+
+Furthermore, I am currently pursuing a Master of Science in Information Technology with a focus on Software Development at Southern New Hampshire University in Manchester, NH, USA.
+
+
 
 ## Professional Experience
 

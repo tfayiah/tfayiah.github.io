@@ -17,14 +17,15 @@ ____
 3. **Bachelor of Science in Mathematics** (Magna Cum laude - Honor), University of Liberia, Monrovia, Liberia      - graduated Dec 2016
 
 _**Other Trainings**_
-         |---:
-1. **Project Design, Monitoring & Evaluation Certificate** - Project Managament for Development Organizations, USA | August 2024
 
-2. **Advanced Postgraduate Diploma (APGD) in Clinical Research & Data Management** - James Lind Institute, Switzerland | Sep 2019 - Sep 2020
+ |:---------------------------        |---:|
+|1. **Project Design, Monitoring & Evaluation Certificate** - Project Managament for Development Organizations, USA | August 2024|
 
-3. **Honor Diploma in Information Technology** - Blue Crest University College, Liberia | May 2016 - Sep 2017
+|2. **Advanced Postgraduate Diploma (APGD) in Clinical Research & Data Management** - James Lind Institute, Switzerland | Sep 2019 - Sep 2020 |
 
-4. **Certificate in Data Science Management & Security** - Oxford University, UK | Nov 2018 - Dec 2018
+|3. **Honor Diploma in Information Technology** - Blue Crest University College, Liberia | May 2016 - Sep 2017 |
+
+|4. **Certificate in Data Science Management & Security** - Oxford University, UK | Nov 2018 - Dec 2018|
 
 Work experience
 ======

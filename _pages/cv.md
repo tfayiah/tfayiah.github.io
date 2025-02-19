@@ -17,7 +17,7 @@ ____
 3. **Bachelor of Science in Mathematics** (Magna Cum laude - Honor), University of Liberia, Monrovia, Liberia      - graduated Dec 2016
 
 _**Other Trainings**_
-
+         |---:
 1. **Project Design, Monitoring & Evaluation Certificate** - Project Managament for Development Organizations, USA | August 2024
 
 2. **Advanced Postgraduate Diploma (APGD) in Clinical Research & Data Management** - James Lind Institute, Switzerland | Sep 2019 - Sep 2020

@@ -1,6 +1,6 @@
 ---
 
-permalink: /
+permalink: /detailed_about/
 title: "Tamba Fayiah Detailed Professional Profile"
 author_profile: true
 redirect_from:
